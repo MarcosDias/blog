@@ -20,8 +20,6 @@ Please submit as an
 [issue](https://github.com/web-create/harmony/issues/new), I am happy 
 to response back.
 
-<<<<<<< HEAD
-=======
 ## How to install/run
 
 1. [Fork](https://github.com/gayanvirajith/gaya) this repository.
@@ -37,8 +35,6 @@ Try to locate your browser at [http://localhost:4000](http://localhost:4000).
 
 Note: If you are a windows user please refer this nice website - http://jekyll-windows.juthilo.com/ by Julian Thilo to configure ruby + jekyll on windows.
 
-
->>>>>>> master
 ## Theme options and configurations
 
 Following options can be seen within the file `_config.yml`. More information 
