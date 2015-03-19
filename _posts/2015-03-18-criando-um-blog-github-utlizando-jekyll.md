@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 ###Introdução
-É bem comum na área de TI e afins, as pessoas criarem um blog para registar seu processo de aprendizagem, isso é uma prática bem comum, e muito bem visto pela comunidade por sinal. Então nesse post vou ensinar como criar um blog utilizando o Jekyll e o próprio Github, exatamente como o que eu estou usando.
+É bem comum na área de TI e afins, as pessoas criarem um blog para registar seu processo de aprendizagem, isso é uma prática bem comum, e muito bem visto pela comunidade, por sinal. Então nesse post vou ensinar como criar um blog utilizando o Jekyll e o próprio Github, exatamente como o que eu estou usando.
 
 ###Tecnologias
 Para fazermos o blog vamos usar o Github, em uma explicação bem simples, ele é um serviço de hospedagem compartilhada para projetos que usam o controle de versionamento Git. Se você não sabe o que é o Github e o Git, você precisa sair da caverna e olhar um pouco o que está acontecendo.
@@ -22,7 +22,7 @@ Para escrevermos de fato os posts, vamos utilizar o Markdown, que é uma linguag
 
 *Seja original, não copie seu coleguinha.*
 
-Com uma simples busca no google com a palavra chave `jekyll theme` e já vamos encontrar muitas coisas, ou podemos acessar o [link], onde há uma lista bem grande de temas. Após encontrarmos, podemos dar um `fork` no projeto e baixamos para nossa máquina com `git clone`. Agora sim, vamos lá:
+Com uma simples busca no google com as palavras chave `jekyll theme` e já vamos encontrar muitas coisas, ou podemos acessar o [link], onde há uma lista bem grande de temas. Após encontrarmos, podemos dar um `fork` no projeto e baixamos para nossa máquina com `git clone`. Agora sim, vamos lá:
 
 Instale o ruby:
 
