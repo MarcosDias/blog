@@ -5,7 +5,8 @@ email: marcos.a.melo.dias@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Quase Bacharel em Sistema de Informação, apaixonado por tecnologias e afins.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "https://marcosdias.github.io" # the base hostname & protocol for your site
+url: "https://marcosdias.github.io/blog" # the base hostname & protocol for your site
+url_http: "http://marcosdias.github.io/blog"
 logourl: /assets/images/logo.png # Site logo
 author: "Marcos Dias"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
