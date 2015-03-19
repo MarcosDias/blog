@@ -1,14 +1,14 @@
 # Site settings
-title: Blog - Marcos Dias
-tagline: 
-email: gayanvirajith@gmail.com
+title: Marcos Dias
+tagline: blog sobre tecnologias e afins
+email: marcos.a.melo.dias@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I’m a professional UI/UX designrer and web developer. 
   I love being minimal and creative.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
+author: "Marcos Dias"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
@@ -30,7 +30,7 @@ theme:
   show_author_info: true
 
   # Disqus comments manager - shortname
-  # disqus_shortname: gaya-webcreate
+  disqus_shortname: gaya-webcreate
 
   # Google Analytics/Webmaster key, leave blank to ignore
   google_analytics_key: 
