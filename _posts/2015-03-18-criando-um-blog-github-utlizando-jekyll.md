@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Como criar um blog no Github!"
-date:   2015-01-01 0:00:55
+title:  "Como criar um blog no Github utilizando o Jekyll!"
+date:   2015-03-18 0:00:55
 categories: Jekyll Blog
-banner_image: sample-banner-image-1.jpg
+banner_image: post1/banner.jpg
 comments: true
 share: true
 ---
