@@ -1,24 +1,20 @@
 ---
 layout: page
-title: About me
+title: Sobre
 permalink: /about/
 banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Olá, eu sou Marcos Dias.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Quase formado em Sistemas de Informação, com conhecimento nas linguagens C, Java e Python, também em banco de dados, com conhecimento básicos em tecnologias web: HTML, CSS, JavaScript, Django, Spring Framework. Pequena experiência com C# e ASP.Net. Grande entusiasta em tecnologias e processos ágeis.
 
-### Contact me
 
-Say `Hello` at gayanvirajith@gmail.com or find
-me on
+### Entre em contato
+
+Entre em contato comigo em marcos.a.melo.dias@gmail.com ou encontrar-me em
 
 ---
 
 {% include social.html %}
-
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
