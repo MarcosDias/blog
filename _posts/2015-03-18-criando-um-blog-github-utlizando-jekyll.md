@@ -42,5 +42,12 @@ Estando dentro da pasta do projeto:
 bundle install
 {% endhighlight %}
 
-Agora sim, já podemos começar a trabalhar nas configurações do nosso blog. Dentro dele terá um arquivo chamado `_config.yml`. Abra ele e faça as alterações necessárias, são bem simples, a maioria delas são alto explicativas.
+Agora sim, já podemos começar a trabalhar nas configurações do nosso blog. Dentro dele terá um arquivo chamado `_config.yml`. Abra-o e faça as alterações necessárias, são bem simples, a maioria são alto explicativas.
+
+Dentro da pasta `_post` há alguns posts de exemplo. Particularmente eu joguei todo esse conteúdo para uma outra pasta, apenas para ter arquivos de exemplo.Seguindo esses arquivos como exemplo, você consegue facilmente criar suas postagem sem dificuldades.
+
+### Subindo para o GitHub
+Agora, estamos quase finalizando. Suba todo o código para o GitHub, vá em Settings e repare que o Github altomagicamente criou nossa página, mas ao clicarmos no link vemos que ela não sofreu as alterações que nós fizemos. Isso acontece pois o GitHub fica observando a branch `gh-pages` e não a `master` do nosso repositório. Para resolvermos isso, temos que entrar na branch `gh-pages`, e dar um `merge` com a branch `master`.
+![Setting GitHub](post1/github-settings.png)
+
 
