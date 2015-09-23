@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# pelican
+output/
+*.pid
+
+# OS
+Thumbs.db
+
+# Arquivos temporarios do Gedit
+*~
+
+# Cache files
+cache/*
+
+bin/
+lib/
+include/
