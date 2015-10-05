@@ -26,7 +26,7 @@ DEFAULT_DATE_FORMAT = '%d %b, %Y'
 DEFAULT_LANG = 'pt'
 LOCALE = 'pt_BR.utf8'
 
-THEME = 'pelican-mg'
+THEME = 'theme/pelican-mg'
 
 SHARE = True
 
