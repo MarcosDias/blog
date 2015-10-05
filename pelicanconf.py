@@ -5,11 +5,9 @@ import os
 
 AUTHOR = 'Marcos Dias'
 SITENAME = 'Marcos Dias'
-SITEURL = ''
 ALT_NAME = "#! " + SITENAME
-SITESUBTITLE = "Blog sobre tecnologias e afins"
-DESCRIPTION = "Um blog sobre tecnologias, e afins."
-# SITEURL = 'http://marcosdias.github.io/blog'
+SITESUBTITLE = "Blog sobre desenvolvimento e afins"
+DESCRIPTION = "Um blog sobre desenvolvimento, e afins."
 SITEURL = 'http://marcosdias.github.io/blog'
 #FAVICON = 'favicon.ico'
 #FAVICON_TYPE = 'image/vnd.microsoft.icon'
