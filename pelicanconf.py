@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = 'Marcos Dias'
 SITENAME = 'Marcos Dias'
@@ -8,27 +9,30 @@ SITEURL = ''
 ALT_NAME = "#! " + SITENAME
 SITESUBTITLE = "Blog sobre tecnologias e afins"
 DESCRIPTION = "Um blog sobre tecnologias, e afins."
-# SITEURL = 'http://marcosdias.github.io/blog/'
+# SITEURL = 'http://marcosdias.github.io/blog'
+SITEURL = 'http://marcosdias.github.io/blog'
 #FAVICON = 'favicon.ico'
 #FAVICON_TYPE = 'image/vnd.microsoft.icon'
 
 #META_IMAGE = SITEURL + "/static/img/og_logo.jpg"
 #META_IMAGE_TYPE = "image/jpeg"
 
+DELETE_OUTPUT_DIRECTORY = True
+
 PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
-
+DEFAULT_DATE_FORMAT = '%d %b, %Y'
 DEFAULT_LANG = 'pt'
-LOCALE = 'pt_br'
+LOCALE = 'pt_BR.utf8'
 
 THEME = 'pelican-mg'
 
 SHARE = True
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
