@@ -6,7 +6,7 @@ Slug: reboot-blog
 Author: Marcos Dias  
 Summary: Reboot no blog, agora é pra valer \o/
 
-Fala galera, tem tempo que não escrevo nada no meu blog e recentimente recebi um email do [Diego Eis](https://twitter.com/diegoeis) do [Tableless](http://tableless.com.br/) sobre o valor de ensinar o próximo, e como isso é vantajoso para nós mesmos, bom, essa vontade de escrever voltou e vou me esforçando para que eu consiga isso.
+Fala galera, tem tempo que não escrevo nada no meu blog e recentemente recebi um email do [Diego Eis](https://twitter.com/diegoeis) do [Tableless](http://tableless.com.br/) sobre o valor de ensinar o próximo, e como isso é vantajoso para nós mesmos, bom, essa vontade de escrever voltou e vou me esforçando para que eu consiga isso.
 Para que essa mesma vontade chegue a todos segue o texto que eu li:
 
 >*Um francês chamado Joseph Joubert tem uma frase bem interessante: “To teach is to learn twice”.*
