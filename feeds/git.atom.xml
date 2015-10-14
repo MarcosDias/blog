@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Marcos Dias</title><link href="http://marcosdias.github.io/blog/" rel="alternate"></link><link href="http://marcosdias.github.io/blog/feeds/git.atom.xml" rel="self"></link><id>http://marcosdias.github.io/blog/</id><updated>2015-10-13T00:00:00-03:00</updated><entry><title>Introdução ao Git</title><link href="http://marcosdias.github.io/blog/introducao-ao-git.html" rel="alternate"></link><updated>2015-10-13T00:00:00-03:00</updated><author><name>Marcos Dias</name></author><id>tag:marcosdias.github.io,2015-10-13:blog/introducao-ao-git.html</id><summary type="html">&lt;p&gt;Fala pessoal,
+dias atrás eu dei um treinamento na empresa em que eu trabalho, sobre Git. Aproveitando a oportunidade vou publicar os slides aqui:&lt;/p&gt;
+&lt;iframe src="//pt.slideshare.net/slideshow/embed_code/key/t9hEQybogcP6Pd" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;p&gt;&lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="//pt.slideshare.net/MarcosDias11/introduo-ao-git-53883548" title="Introdução ao git" target="_blank"&gt;Introdução ao git&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="//www.slideshare.net/MarcosDias11" target="_blank"&gt;Marcos Dias&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Se você encontrou algum erro, me dê um toque. :)&lt;/p&gt;</summary></entry></feed>
